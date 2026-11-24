@@ -1,4 +1,17 @@
-## Hi there 👋
+# Angela Abongo
+
+Data Analyst/ Data Scientist | Biostatistics + MSc Data Analytics (2026)
+
+Turning large, messy data into evidence that holds up. I work in Python, SQL and R, with machine learning, NLP and statistical research, and I use AI coding assistants to build and check my analysis. I also build visualizations in Power BI and tableau.
+
+## Projects
+
+- [World Happiness Analysis](https://github.com/Angela-99/world-happiness-analysis): global happiness trends, 2015 to 2019
+- [Toronto Shelter Analysis](https://github.com/Angela-99/toronto-shelter-analysis): flow through Toronto's shelter system, from open city data
+- [Toronto Shelter Forecasting](https://github.com/Angela-99/toronto-shelter-forecasting): time series analysis and forecasting with backtested models
+- [Amazon Reviews NLP and Recommender](https://github.com/Angela-99/amazon-reviews-nlp-recommender): sentiment analysis and a recommendation system
+- [BI Dashboards](https://github.com/Angela-99/bi-dashboards): Power BI and Tableau dashboards
+
 
 <!--
 **Angela-99/Angela-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
