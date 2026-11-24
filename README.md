@@ -2,7 +2,7 @@
 
 Data Analyst/ Data Scientist | Biostatistics + MSc Data Analytics (2026)
 
-Turning large, messy data into evidence that holds up. I work in Python, SQL and R, with machine learning, NLP and statistical research, and I use AI coding assistants to build and check my analysis. I also build visualizations in Power BI and tableau.
+Turning large, messy data into evidence that holds up. I work in Python, SQL and R, with machine learning, NLP and statistical research, and I use AI coding assistants to build and check my analysis. I also build visualizations in Power BI and Tableau.
 
 ## Projects
 
