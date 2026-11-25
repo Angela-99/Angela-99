@@ -13,7 +13,7 @@ Turning large, messy data into evidence that holds up. I work in Python, SQL and
 - [BI Dashboards](https://github.com/Angela-99/bi-dashboards): Power BI and Tableau dashboards
 - [ML Health Risk Neural Network](https://github.com/Angela-99/ml-health-risk-neural-network): MLP vs logistic regression, with cross-validated model selection
 - [Payment Adoption and Online Shopping (R)](https://github.com/Angela-99/marketing-regression-payment-adoption): negative binomial vs linear regression, with assumption testing
-
+- [E-commerce Funnel Analysis (R)](https://github.com/Angela-99/retail-funnel-analysis): funnel, time to purchase and repeat buying on real clickstream data
 
 <!--
 **Angela-99/Angela-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
