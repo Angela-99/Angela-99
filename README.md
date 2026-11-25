@@ -11,6 +11,7 @@ Turning large, messy data into evidence that holds up. I work in Python, SQL and
 - [Toronto Shelter Forecasting](https://github.com/Angela-99/toronto-shelter-forecasting): time series analysis and forecasting with backtested models
 - [Amazon Reviews NLP and Recommender](https://github.com/Angela-99/amazon-reviews-nlp-recommender): sentiment analysis and a recommendation system
 - [BI Dashboards](https://github.com/Angela-99/bi-dashboards): Power BI and Tableau dashboards
+- [ML Health Risk Neural Network](https://github.com/Angela-99/ml-health-risk-neural-network): MLP vs logistic regression, with cross-validated model selection
 
 
 <!--
