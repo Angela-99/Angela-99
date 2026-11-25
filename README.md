@@ -2,7 +2,7 @@
 
 Data Analyst/ Data Scientist | Biostatistics + MSc Data Analytics (2026)
 
-Using data to help make SMART business decisions. I work in Python, SQL and R, with machine learning, NLP and statistical research, and I use AI coding assistants to build and check my analysis. I also build visualizations in Power BI and Tableau.
+Using data to drive SMART decision making. I work in Python, SQL and R, with machine learning, NLP and statistical research, and I use AI coding assistants to build and check my analysis. I also build visualizations in Power BI and Tableau.
 
 ## Projects
 
