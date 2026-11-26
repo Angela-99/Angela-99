@@ -17,4 +17,4 @@ Using data to drive SMART decision making. I work in Python, SQL and R, with mac
 - [SQL Airbnb Booking Database](https://github.com/Angela-99/sql-airbnb-booking-database): MySQL database design with views, stored procedures, triggers, JSON/XML handling, window-function analysis queries and data quality checks (school project, synthetic data)
 - [Netflix Churn Prediction](https://github.com/Angela-99/netflix-churn-prediction): hypothesis tests, 12 classification models and CLV/ROI estimates for streaming customer churn (school project, synthetic data)
 - [Airline Crew Scheduling Optimization](https://github.com/Angela-99/airline-crew-scheduling-mip): mixed-integer program assigning pilots and copilots to flights with preference, vacation and sensitivity analysis (school project, synthetic data)
-
+- [Multi-Skilled Project Scheduling](https://github.com/Angela-99/multi-skilled-project-scheduling): mixed-integer program for worker assignment, overtime and deadline cost trade-offs with sensitivity analysis (school project, synthetic data)
