@@ -15,4 +15,5 @@ Using data to drive SMART decision making. I work in Python, SQL and R, with mac
 - [Payment Adoption and Online Shopping (R)](https://github.com/Angela-99/marketing-regression-payment-adoption): negative binomial vs linear regression, with assumption testing
 - [E-commerce Funnel Analysis (R)](https://github.com/Angela-99/retail-funnel-analysis): funnel, time to purchase and repeat buying on real clickstream data
 - [SQL Airbnb Booking Database](https://github.com/Angela-99/sql-airbnb-booking-database): MySQL database design with views, stored procedures, triggers, JSON/XML handling, window-function analysis queries and data quality checks (school project, synthetic data)
+- [Netflix Churn Prediction](https://github.com/Angela-99/netflix-churn-prediction): hypothesis tests, 12 classification models and CLV/ROI estimates for streaming customer churn (school project, synthetic data)
 
